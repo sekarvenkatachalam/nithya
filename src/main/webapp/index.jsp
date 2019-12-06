@@ -24,7 +24,7 @@
 		alert("Please enter the search for an ITEM !");
 		return false;
 		}
-		alert("Thank you :-) , We have the availabilty of your search item and please check bottom of the page to order !"
+		alert("Thank you :-) , We have the availabilty of your search item and please find the link in the page for ordering"
                  );
 		return true;
 		}
@@ -37,7 +37,7 @@
                 <BR>
                 <BR>
                 <BR>
-                        <FONT COLOR="WHITE" SIZE="7">WELCOME TO KAARALA FARMS
+                        <FONT COLOR="WHITE" SIZE="7">WELCOME TO SEKAR FARMS
                         <br>
 			<FONT COLOR="WHITE" SIZE="5">|- from the blended nature of Kalvarayan and Kolli Hills -|
 			<br><br>
