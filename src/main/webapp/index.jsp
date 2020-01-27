@@ -15,7 +15,7 @@
          private static int counter = 0;
          %>
         <%
-          String visitor = ++counter + " :: We are growing , Thank you for your LOVE and SUPPORT...";
+          String visitor = ++counter + " :: We are growing , Thank you for your LOVE and SUPPORT and love...";
         %>
 
 	<SCRIPT>
